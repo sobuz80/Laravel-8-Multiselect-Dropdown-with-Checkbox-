@@ -1,0 +1,6 @@
+Laravel 8 Multiselect Dropdown with Checkbox 
+
+php artisan serve
+php artisan migrate
+php artisan make:model Category -m
+php artisan make:controller CategoryController 
